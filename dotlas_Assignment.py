@@ -44,8 +44,7 @@ for i in range(0, len(links)):
     temp = []
     for j in range(0, len(menu_data)):
         temp.append(
-            [menu_data[j]['name'], menu_data[j]['description'], 
-             menu_data[j]['price'], menu_data[j]['image']]
+            [menu_data[j]['name'], menu_data[j]['description'],menu_data[j]['price'], menu_data[j]['image']]
         )
     menu_items.append(temp)
     
