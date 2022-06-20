@@ -1,4 +1,3 @@
-# Dotlas-Assignment
 # Dotlas - Part-Time Student Data Engineer Assessment
 
 - [Dotlas - Part-Time Student Data Engineer Assessment](#dotlas---part-time-student-data-engineer-assessment)
